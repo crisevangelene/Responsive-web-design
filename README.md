@@ -43,3 +43,18 @@ It's my day-2 and I've tried implementing yesterday's learnings.</p>
 <p>You can keep an eye on my daily learnings on GitHub.</p><a href="https://github.com/crisevangelene/Responsive-web-design">This links to my GitHub Repo</a>
 
 <h4>Thanks for checking this out, Have a nice day :)</h4>
+
+
+# DAY-3
+
+**Topics learnt**
+
+* Making dead links using Hash symbol
+* Turning an image to link
+* Creating Bulleteed Unordered List
+* Creating Ordered List
+* Adding Placeholder text to a text field
+* Creating set of Radio Buttons
+* Creating set of Checkboxes
+* Using the Value attribute with Radio Buttons and Checkboxes
+* Other basic HTML stuff like declaring DOCTYPE of HTML document etc. 
