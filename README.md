@@ -58,3 +58,45 @@ It's my day-2 and I've tried implementing yesterday's learnings.</p>
 * Creating set of Checkboxes
 * Using the Value attribute with Radio Buttons and Checkboxes
 * Other basic HTML stuff like declaring DOCTYPE of HTML document etc. 
+
+
+# DAY- 4 to 7 (CSS)
+
+**Topics Learnt**
+
+* Changing the color of text
+* Using CSS selectors to style elements
+* Using CSS Class to style elements
+* Styling multiple elements with CSS class
+* Changing font-size of element
+* Setting the font family of an element
+* Importing fonts from google
+* Specifying how fonts should degrade
+* Sizing the image
+* Adding borders to the elements
+* Using border-radius to make circular images and rounded borders
+* Giving the div element a background color
+* Setting an id for an element
+* Using id attribute to style an element
+* Adjusting the padding, margins 
+* Adding different padding, margins to each side of an element
+* Using clock-wise notation to specify margin and padding of an element
+* Using attribute selectors to style elements
+* Understanding Absolute vs Relative units
+* Inheriting styles from body element
+* Prioritize one style over the other
+* Overidding styles in subsequent CSS
+* Overriding class declarations by styling ID attributes
+* Overriding class declarations with inline styles
+* Overriding all other styles using important
+* Using Hex code (Hexadecimal code) to specify colors, mix colors
+* Using abbreviated Hex code
+* Using rgb values to color elements, to mix colors
+* Using CSS variables 
+* Attaching fallback values to CSS variables
+* Improving compatability with browser fallbacks
+* Inheriting CSS variables
+* Changing a variable for specific area
+* Using media query to change a variable
+
+#### With this, I finished the basic CSS required to learn for Responsive Web Design.
